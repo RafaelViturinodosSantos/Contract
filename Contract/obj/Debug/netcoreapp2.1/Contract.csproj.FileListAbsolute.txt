@@ -1,0 +1,11 @@
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\bin\Debug\netcoreapp2.1\Contract.deps.json
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\bin\Debug\netcoreapp2.1\Contract.runtimeconfig.json
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\bin\Debug\netcoreapp2.1\Contract.runtimeconfig.dev.json
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\bin\Debug\netcoreapp2.1\Contract.dll
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\bin\Debug\netcoreapp2.1\Contract.pdb
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\obj\Debug\netcoreapp2.1\Contract.csprojAssemblyReference.cache
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\obj\Debug\netcoreapp2.1\Contract.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\obj\Debug\netcoreapp2.1\Contract.AssemblyInfoInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\obj\Debug\netcoreapp2.1\Contract.AssemblyInfo.cs
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\obj\Debug\netcoreapp2.1\Contract.dll
+C:\Users\rafa_\Desktop\C#\Programas\Contract\Contract\obj\Debug\netcoreapp2.1\Contract.pdb
